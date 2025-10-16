@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "id": "4",
+      "name": "Silvensten john",
+      "email": "silveston@gmail.com",
+      "userId": "2"
+    },
+    {
+      "name": "Alfin Johnson",
+      "email": "alfin@gmail.com",
+      "userId": null,
+      "id": "a5df"
+    },
+    {
+      "name": "Anith Eldho Varghese",
+      "email": "anith@gmail.com",
+      "userId": null,
+      "id": "721d"
+    },
+    {
+      "name": "Adarsh T V",
+      "email": "adarsh@gmail.com",
+      "userId": null,
+      "id": "57c6"
+    },
+    {
+      "name": "Abhinav Pullat",
+      "email": "abhinav@gmail.com",
+      "userId": null,
+      "id": "5964"
+    },
+    {
+      "name": "Joel Jojo",
+      "email": "joeljojo@gmail.com",
+      "userId": null,
+      "id": "9a89"
+    },
+    {
+      "name": "Adhithya Sooraj",
+      "email": "adhithyasooraj@gmail.com",
+      "userId": null,
+      "id": "6234"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
